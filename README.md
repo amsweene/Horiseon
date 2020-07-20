@@ -19,7 +19,7 @@ Horiseon provides Search Engine Optimization (SEO) consulations, Online Reputati
 
 #### Website
 
-amsweene.github.io/horiseon
+https://amsweene.github.io/horiseon
 
 ![Horiseon](assets/images/Horiseon.png)
 
