@@ -8,21 +8,21 @@ Horiseon Social Service Solutions
 - Website
 - Contribution
 
-#####Purpose
+##### Purpose
 
 Horiseon provides Search Engine Optimization (SEO) consulations, Online Reputation Management, and Social Media Marketing. This webpage has refactored to follow accessibility standards allowing for search engine optimization to ensure maximum visibility for Horiseon and its clients.
 
-#####Tools
+##### Tools
 
 - HTML/HTML5
 - CSS
 
-#####Website
+##### Website
 
 amsweene.github.io/horiseon
 
 ![Horiseon](assets/images/Horiseon.png)
 
-#####Contributors
+##### Contributors
 
 Adam M. Sweeney
